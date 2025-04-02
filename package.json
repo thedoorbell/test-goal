@@ -1,0 +1,23 @@
+{
+  "name": "test-goal",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "lesson2 first test try",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thedoorbell/test-goal.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thedoorbell/test-goal/issues"
+  },
+  "homepage": "https://github.com/thedoorbell/test-goal#readme"
+}
